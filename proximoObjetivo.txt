@@ -1,2 +1,0 @@
-fazer o programa ler de poucas linhas, talvez de 20 em 20
-fazer o usuario informar se ele nao quer ler mais
